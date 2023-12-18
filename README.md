@@ -1,7 +1,7 @@
 
 # Embedded Controller HAL
 
-Written by:   Hyeong Seok Song
+Written by:   Hyeong Seok, Song
 
 Program: 		  C/C++
 
