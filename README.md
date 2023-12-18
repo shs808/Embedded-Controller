@@ -2,10 +2,15 @@
 # Embedded Controller HAL
 
 Written by:   Hyeong Seok Song
+
 Program: 		  C/C++
+
 IDE/Compiler: Keil uVision 5
+
 OS: 					WIn10
+
 MCU:  				STM32F411RE, Nucleo-64
+
 
 
 ## GPIO Digital In/Out 
